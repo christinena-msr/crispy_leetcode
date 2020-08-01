@@ -41,7 +41,7 @@ var detectCapitalUse = function(word) {
 
 /* 
     Results: 70.82% percentile
-    Thoughts: numbly average. 
+    Thoughts: numbingly average results. lots of area for improvement. 
     Other Stats: 
         Runtime: 
             best case: O(1)
