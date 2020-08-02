@@ -1,6 +1,5 @@
 # Algorithm Practice
 This is where I will be storing my submissions of the August LeetCode Challenge & HackerRank questions.
----
 
 ## Join Me!
 If you would like to contribute or add your own problems, open an issue or email me ([see my profile](#author)) and I can add you as a contributor.
