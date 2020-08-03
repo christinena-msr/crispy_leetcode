@@ -1,3 +1,6 @@
+# Problem Statement
+# Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+
 # let's reflect on why this is wrong
 import re
 
