@@ -1,10 +1,16 @@
 # Algorithm Practice
-This is where I will be storing my submissions of the August LeetCode Challenge & HackerRank questions.
+This is where I will be storing my submissions of the August LeetCode Challenge, LeetCode & HackerRank questions.
 
-## Join Me!
-If you would like to contribute or add your own problems, open an issue or email me ([see my profile](#author)) and I can add you as a contributor.
+## Update: Daily Coding Challenge
+I plan to work on at least 1 leetcode/hackerrank problem per day. I've organized each problem by category:
+* Monthly Challenge
+* Blind 75
+* Easy
+* Medium
+* Hard 
+* HackerRank
 
-## Current Challenge: August
+## Past Challenge: August
 Inside the folder "augustChallenge" you will find a .js file that contains the problem statement, my successful submission, its results, and my thought process. 
 I will primarily use this github as a way to document and review my algorithm practice. 
 
@@ -24,7 +30,4 @@ Format of .js files for each question will follow the example above.
 
 ## Author
 [crispysodium](https://www.github.com/crispysodium)
-
-## Collaborators & Contributors
-Your github username could be here! See [Join Me](#join-me-!)
 
