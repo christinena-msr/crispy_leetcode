@@ -52,7 +52,7 @@ const climbStairs = function(n) {
 climbStairs(1);
 climbStairs(6);
 climbStairs(7);
-climbStairs(8);
+console.log(climbStairs(45));
 
 // results: 91.31%
 // runtime: 68 ms
